@@ -1,0 +1,28 @@
+{
+  "name": "8bitfonted",
+  "version": "1.0.0",
+  "description": "8-bit charater font editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matheusjgsantos/8bitfonted.git"
+  },
+  "keywords": [
+    "8-bit",
+    "font",
+    "editor",
+    "MSX"
+  ],
+  "author": "Matheus José Geraldini dos Santos",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/matheusjgsantos/8bitfonted/issues"
+  },
+  "homepage": "https://github.com/matheusjgsantos/8bitfonted#readme",
+  "dependencies": {
+    "two.js": "^0.7.12"
+  }
+}
